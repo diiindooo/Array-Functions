@@ -1,0 +1,24 @@
+REVIEW
+======
+
+1. Traversal - going through each element of any indexed structure - e.g. string, array, list, etc.
+
+2. Full vs Partial
+
+3. Forward/Backward
+
+4. Search. 
+-first-match vs last-match
+-return the position of the matching item
+-if item is not found, -1 is returned
+
+--------------------------------------------
+
+5. Finding the position of the min/max item
+-returns the position(i.e. index) of the min/max item
+
+6. Sorting - ascending or descending - we use selection sort
+
+7. reversing an array
+
+
